@@ -8,5 +8,6 @@ using namespace std;
  		cin >> radio;
  		area = M_PI * pow(radio,2);
  		cout << "El area del circulo es " << area << endl;
+ 		asdmlasmdl;
  		return 0;
  }
